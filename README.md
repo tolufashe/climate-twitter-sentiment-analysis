@@ -27,7 +27,7 @@ This analysis was structured around two questions:
 
 ## 📁 Dataset
 
-**Source:** [Climate Change Twitter Dataset](https://data.mendeley.com/datasets/mw8yd7z9wc/2)
+**Source:** [Climate Change Twitter Dataset](https://data.mendeley.com/datasets/mw8yd7z9wc/2)-Effrosynidis, Dimitrios (2022), “The Climate Change Twitter Dataset”, Mendeley Data, V2, doi: 10.17632/mw8yd7z9wc.2
 
 | Attribute | Detail |
 |---|---|
